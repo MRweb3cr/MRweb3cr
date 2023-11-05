@@ -1,6 +1,6 @@
 ## @MRweb3cr
 
-👋 Ahoj, jmenuji se @MRweb3cr
+👋 Ahoj, jmenuji se Martin Rychlý.
 
 👀 Baví mě vytvářet decentralizovaný digitální svět pomocí technologií web3. Používám blockchain, chytré smlouvy (NFT), IPFS, kryptoměny a decentralizované peněženky k vytváření, ukládání a připojení k internetu prostřednictvím decentralizovaných webových stránek. Snažím se zajistit, aby veškerá moje práce byla v souladu s aktuálními zákony a předpisy.
 
